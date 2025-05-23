@@ -4,13 +4,11 @@ Bu proje, CENG106 – Nesneye Dayalı Programlamaya Giriş dersi kapsamında gel
 
 ##  Proje Ekibi
 
-| İsim                 | Numara      | Şube    | Rol                         |
-|--------------------- |-------------|---------|
-| Şevket Berat Tetik   | 23118080062 | 2. şube | Arayüz Tasarımı             |
-| Alperen Örene        | 23118080006 | 2. şube | Veritabanı Tasarımı         |
-|Muhammed Eymen Yiğit  | 23118080087 | 2. şube | OOP & Yorum/Puanlama        |
-|Mustafa Kerem Kaya    | 23118080045 | 2. şube | Ana Sayfa & MVC & Akış      |
-
+ Şevket Berat Tetik
+ Alperen Örene
+ Muhammed Eymen Yiğit
+ Mustafa Kerem Kaya 
+ 
 ##  Uygulamanın Çalıştırılması
 
 ### Adımlar:
